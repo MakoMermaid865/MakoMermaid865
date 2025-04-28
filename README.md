@@ -1,19 +1,22 @@
   # 👋 Hi, I’m Ari
 - 🎓 I’m currently studying Computer Science, Cybersecurity, and learning about Machine Learning.
-
 - 🔒 I'm passionate about Ethical Hacking and exploring AI/ML technologies.
-
-- 💻 I’m building skills through projects, reports, and labs — and always looking to learn more!
-
+- 💻 I’m building skills through hand-on-projects, coding competions, hackathons, research preojects — and always looking to learn more!
 - 🤝 I’m looking to collaborate on exciting projects, research papers, and security challenges.
-
 - 🌱 Current Focus: Growing my knowledge in AI security, ethical hacking techniques, machine learning fundamentals, and secure coding.
 
+# Fun Facts 🎨👗
+ - Tech Enthusiast: Passionate about Machine Learning and Ethical Hacking, working on cool projects and exploring cybersecurity tools!
+ - Fashion Lover: In addition to coding, I have a huge love for fashion — I love designing, experimenting with styles, and keeping up with trends.
+ - Constant Learner: I believe in lifelong learning and am always picking up new skills — whether it's coding, hacking, or even learning about the latest fashion collections!
+
+# Next Goals 🚀
+  - Complete beginner certifications
+  - collaborate on open-source cybersecurity/AI projects
+  - level up through competitions, CTF, and Hackathons
 
 
-  # Contact Me
+  # Contact Me 📱
+-  Linkedin: www.linkedin.com/in/ariana-kinney-347144333
 -  email: akinney424@gmail.com
 -  Discord: ari_senay
- 
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love fashion! I'm a big nerd lol
