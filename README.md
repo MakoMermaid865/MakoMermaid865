@@ -5,9 +5,9 @@
 - 🤝 I’m looking to collaborate on exciting projects, research papers, and security challenges.
 - 🌱 Current Focus: Growing my knowledge in AI security, ethical hacking techniques, machine learning fundamentals, and secure coding.
 
-# Fun Facts 🎨👗
- - Tech Enthusiast: Passionate about Machine Learning and Ethical Hacking, working on cool projects and exploring cybersecurity tools!
+# Fun Facts 👗🧗 
  - Fashion Lover: In addition to coding, I have a huge love for fashion — I love designing, experimenting with styles, and keeping up with trends.
+ - Rock Climber: I’m passionate about rock climbing and spending time outdoors — whether it’s scaling cliffs or exploring new trails, being outside keeps me energized and focused!
  - Constant Learner: I believe in lifelong learning and am always picking up new skills — whether it's coding, hacking, or even learning about the latest fashion collections!
 
 # Next Goals 🚀
