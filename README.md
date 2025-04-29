@@ -1,9 +1,6 @@
   # 👋 Hi, I’m Ari
-- 🎓 I’m currently studying Computer Science, Cybersecurity, and learning about Machine Learning.
-- 🔒 I'm passionate about Ethical Hacking and exploring AI/ML technologies.
-- 💻 I’m building skills through hand-on-projects, coding competions, hackathons, research preojects — and always looking to learn more!
-- 🤝 I’m looking to collaborate on exciting projects, research papers, and security challenges.
-- 🌱 Current Focus: Growing my knowledge in AI security, ethical hacking techniques, machine learning fundamentals, and secure coding.
+- 🎓 I’m currently studying Computer Science, Cybersecurity, and learning about Machine Learning. I'm passionate about Ethical Hacking and exploring AI/ML technologies. I’m building skills through hand-on-projects, coding competions, hackathons, research preojects — and always looking to learn more! I’m looking to collaborate on exciting projects, research, and security challenges.
+**Current Focus:** Growing my knowledge in AI security, ethical hacking techniques, machine learning fundamentals, and programming languages.
 
 # Fun Facts 👗🧗 
  - Fashion Lover: In addition to coding, I have a huge love for fashion — I love designing, experimenting with styles, and keeping up with trends.
@@ -11,9 +8,9 @@
  - Constant Learner: I believe in lifelong learning and am always picking up new skills — whether it's coding, hacking, or even learning about the latest fashion collections!
 
 # Next Goals 🚀
-  - Complete beginner certifications
-  - collaborate on open-source cybersecurity/AI projects
-  - level up through competitions, CTF, and Hackathons
+  - Completing beginner certifications in ML and Ethical Hacking
+  - Collaborate on cybersecurity/AI projects
+  - Level up through coding competitions, CTF, and Hackathons
 
 
   # Contact Me 📱
