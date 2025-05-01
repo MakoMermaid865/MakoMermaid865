@@ -1,5 +1,5 @@
   # 👋 Hi, I’m Ari
-- I’m currently studying Computer Science, Cybersecurity, and learning about Machine Learning. I'm passionate about Ethical Hacking and exploring AI/ML technologies. I’m building skills through hand-on-projects, coding competions, hackathons, research preojects — and always looking to learn more! I’m looking to collaborate on exciting projects, research, and security challenges.
+- I study Computer Science and Cybersecurity. I'm passionate about Ethical Hacking and exploring AI/ML technologies. I’m building skills through hand-on-projects, coding competions, hackathons, research preojects, and always looking to learn more! I’m looking to collaborate on exciting projects, research, and security challenges.
 
  - **Current Focus:** Growing my knowledge in AI security, ethical hacking techniques, machine learning fundamentals, and programming languages.
 
