@@ -1,14 +1,14 @@
-  # 👋 Hi, I’m Ari
-- I study Computer Science and Cybersecurity. I'm passionate about Ethical Hacking and exploring AI/ML technologies. I’m building skills through hand-on-projects, coding competions, hackathons, research preojects, and always looking to learn more! I’m looking to collaborate on exciting projects, research, and security challenges.
+  # 👋 Hi, I’m Ari  (pronounced Air-ee) 
+- I'm a Computer Engineering Student at Wright State Univeiry...Raider-Up! I'm passionate about ethical hacking, hardware systems, and AI/ML equitment. I challenge myself through hardware and software projects, hackathons, and research opporutnies. My goal is to keep evolving in my career and contributing to innovative projects that combine hardeware, seciruty and tech designs. 
 
- - **Current Focus:** Growing my knowledge in computer science, ethical hacking techniques, machine learning fundamentals, and programming languages.
-
-# Fun Facts 👗🧗 
+# Current Focus
+-
+# Current Projects 
  - **Fashion Lover:** In addition to coding, I have a huge love for fashion. I love designing, experimenting with styles, and keeping up with trends.
  - **Rock Climber:** I’m passionate about rock climbing and spending time outdoors. If it’s scaling cliffs or exploring new trails I'm ready for a new adventure.
  - **Food Girly:** I love to cook and try new recipes from around the world! Exploring different cultures through food is one of my favorite ways to learn and connect.
 
-# Next Goals 🚀
+# Next Goals ⭐
   - Completing beginner certifications in ML and Ethical Hacking
   - Collaborate on cybersecurity/AI projects
   - Level up through coding competitions, CTF, and Hackathons
