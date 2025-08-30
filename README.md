@@ -1,18 +1,22 @@
   # 👋 Hi, I’m Ari  (pronounced Air-ee) 
-- I'm a Computer Engineering Student at Wright State Univeiry...Raider-Up! I'm passionate about ethical hacking, hardware systems, and AI/ML equitment. I challenge myself through hardware and software projects, hackathons, and research opporutnies. My goal is to keep evolving in my career and contributing to innovative projects that combine hardeware, seciruty and tech designs. 
+-I am a Computer Engineering student at Wright State University—Raider Up! I am passionate about ethical hacking, hardware systems, and AI/ML equipment. I challenge myself through hardware and software projects, hackathons, and research opportunities. My goal is to continuously evolve in my career and contribute to innovative projects that combine hardware, security, and technology design.
 
 # Current Focus
--
+- -Strengthening my knowledge in hardware, cybersecurity, and machine learning
+- Applying classroom concepts through projects, labs, and real-world experiences
+- Developing skills in teamwork, research, and problem-solving.
+  
 # Current Projects 
- - **Fashion Lover:** In addition to coding, I have a huge love for fashion. I love designing, experimenting with styles, and keeping up with trends.
- - **Rock Climber:** I’m passionate about rock climbing and spending time outdoors. If it’s scaling cliffs or exploring new trails I'm ready for a new adventure.
- - **Food Girly:** I love to cook and try new recipes from around the world! Exploring different cultures through food is one of my favorite ways to learn and connect.
+**Trivia Game (Java)**: An interactive quiz project that tracks user input and scores, designed to enhance programming fundamentals.
+
+**Hackathon Project: Student Community Hub**: Developed a futuristic website aimed at facilitating college funding, building community, and providing various services.
+
+**Microelectronics**: Gained experience in logic gates, semiconductor fundamentals, and C/C++ applications during an 8-week internship.
 
 # Next Goals ⭐
-  - Completing beginner certifications in ML and Ethical Hacking
-  - Collaborate on cybersecurity/AI projects
-  - Level up through coding competitions, CTF, and Hackathons
-
+-bAdvance my career through professional certifications and continuous learning.
+- Build on my hardware and microelectronics experience from my summer internship. 
+- Collaborate on innovative projects at the intersection of AI, cybersecurity, and hardware.
 
   # Contact Me 📱
 -  Linkedin: www.linkedin.com/in/ariana-kinney-347144333
