@@ -1,4 +1,5 @@
-## In this course, I am working with both Linux and Windows operating systems to build a solid foundation in system administration. I am gaining hands-on experience with:  
+## Focus
+In this course, I am working with both Linux and Windows operating systems to build a solid foundation in system administration. I am gaining hands-on experience with:  
 
 - Managing files, directories, permissions, and user accounts  
 - Using the command line for automation with scripting and regular expressions
