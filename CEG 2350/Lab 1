@@ -1,1 +1,144 @@
-## Edit the lab templet and fill the answer for it 
+PS C:\Users\akinn> cd $HOME
+PS C:\Users\akinn> echo $HOME
+C:\Users\akinn
+PS C:\Users\akinn> mkdir DirA
+
+
+    Directory: C:\Users\akinn
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----          9/3/2025   3:02 PM                DirA
+
+
+PS C:\Users\akinn> mkdir "Dir B"
+
+
+    Directory: C:\Users\akinn
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----          9/3/2025   3:02 PM                Dir B
+
+
+PS C:\Users\akinn> cd DirA
+PS C:\Users\akinn\DirA> cd ../"Dir B"
+PS C:\Users\akinn\Dir B> cd ~
+PS C:\Users\akinn> New-Item
+
+cmdlet New-Item at command pipeline position 1
+Supply values for the following parameters:
+Path[0]: test.txt
+Path[1]:
+
+
+    Directory: C:\Users\akinn
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----          9/3/2025   3:04 PM              0 test.txt
+
+
+PS C:\Users\akinn> mv test.txt DirA
+PS C:\Users\akinn> notepad DirA\test.txt
+PS C:\Users\akinn> cp DirA/test.txt DirA/copy.txt
+PS C:\Users\akinn> ls DirA
+
+
+    Directory: C:\Users\akinn\DirA
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----          9/3/2025   3:04 PM              0 copy.txt
+-a----          9/3/2025   3:04 PM              0 test.txt
+
+
+PS C:\Users\akinn> cp DirA/test.txt "Dir B/fodder.txt"
+PS C:\Users\akinn> ls Dir B
+ls : Cannot find path 'C:\Users\akinn\Dir' because it does not
+exist.
+At line:1 char:1
++ ls Dir B
++ ~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\akinn\
+   Dir:String) [Get-ChildItem], ItemNotFoundException
+    + FullyQualifiedErrorId : PathNotFound,Microsoft.PowerShel
+   l.Commands.GetChildItemCommand
+
+PS C:\Users\akinn> ls "Dir B"
+
+
+    Directory: C:\Users\akinn\Dir B
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----          9/3/2025   3:04 PM              0 fodder.txt
+
+
+PS C:\Users\akinn> Remove-Item
+
+cmdlet Remove-Item at command pipeline position 1
+Supply values for the following parameters:
+Path[0]: "Dir B/fodder.txt"
+Path[1]:
+Remove-Item : Illegal characters in path.
+At line:1 char:1
++ Remove-Item
++ ~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (C:\Users\akinn
+   \"Dir B\fodder.txt":String) [Remove-Item], ArgumentExcepti
+  on
+    + FullyQualifiedErrorId : ItemExistsArgumentError,Microsof
+   t.PowerShell.Commands.RemoveItemCommand
+
+Remove-Item : Cannot find path 'C:\Users\akinn\"Dir
+B\fodder.txt"' because it does not exist.
+At line:1 char:1
++ Remove-Item
++ ~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\akinn\
+   "Dir B\fodder.txt":String) [Remove-Item], ItemNotFoundExce
+  ption
+    + FullyQualifiedErrorId : PathNotFound,Microsoft.PowerShel
+   l.Commands.RemoveItemCommand
+
+PS C:\Users\akinn> rm "Dir B/fodder.txt"
+PS C:\Users\akinn> Remove-Item "Dir B.txt", "Dir B"
+Remove-Item : Cannot find path 'C:\Users\akinn\Dir B.txt'
+because it does not exist.
+At line:1 char:1
++ Remove-Item "Dir B.txt", "Dir B"
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\akinn\
+   Dir B.txt:String) [Remove-Item], ItemNotFoundException
+    + FullyQualifiedErrorId : PathNotFound,Microsoft.PowerShel
+   l.Commands.RemoveItemCommand
+
+PS C:\Users\akinn> rm -r "Dir B"
+rm : Cannot find path 'C:\Users\akinn\Dir B' because it does
+not exist.
+At line:1 char:1
++ rm -r "Dir B"
++ ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\akinn\
+   Dir B:String) [Remove-Item], ItemNotFoundException
+    + FullyQualifiedErrorId : PathNotFound,Microsoft.PowerShel
+   l.Commands.RemoveItemCommand
+
+PS C:\Users\akinn> ls "Dir B"
+ls : Cannot find path 'C:\Users\akinn\Dir B' because it does
+not exist.
+At line:1 char:1
++ ls "Dir B"
++ ~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\akinn\
+   Dir B:String) [Get-ChildItem], ItemNotFoundException
+    + FullyQualifiedErrorId : PathNotFound,Microsoft.PowerShel
+   l.Commands.GetChildItemCommand
+
+PS C:\Users\akinn>
