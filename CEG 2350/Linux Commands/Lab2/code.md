@@ -1,7 +1,7 @@
 ## Lab 02
 
-- Name:
-- Email
+- Name: Ari Kinney
+- Email kinney.58@wright.edu
 
 ## Part 1 Answers
 
