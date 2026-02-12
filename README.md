@@ -14,7 +14,7 @@ I am a Computer Engineering student at Wright State University—Raider Up! I am
 ![](https://nirzak-streak-stats.vercel.app/?user=MakoMermaid865&theme=cobalt&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MakoMermaid865&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MakoMermaid865&limit=5&theme=cobalt&combine_all_yearly_contributions=true)
+![Stats Card 1](https://awesome-github-stats.azurewebsites.net/user-stats/MakoMermaid865?theme=tokyonight)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
