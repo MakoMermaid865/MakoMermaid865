@@ -1,10 +1,8 @@
 <p align="center">
-<img src="![Robot](https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/Roboto.png)
-" alt="Image Description" width="600">
+<img src="![Heart and Fire](https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/Heart%20and%20Fire.png)" alt="Image Description" width="600">
 </p>
 
-I am a Computer Engineering student at Wright State University—Raider Up! I am passionate about ethical hacking, hardware systems, and AI/ML equipment. I challenge myself through hardware and software projects, hackathons, and research opportunities. My goal is to continuously evolve in my career and contribute to innovative projects that combine hardware, security, and technology design.<br>Advance my career through professional certifications and continuous learning.<br><br>Build on my hardware and microelectronics experience from my summer internship.<br><br>Collaborate on innovative projects at the intersection of AI, cybersecurity, and hardware.
-
+I am a Computer Engineering student at Wright State University—Raider Up! I am passionate about ethical hacking, hardware systems, and AI/ML equipment. I challenge myself through hardware and software projects, hackathons, and research opportunities. My goal is to continuously evolve in my career and contribute to innovative projects that combine hardware, security, and technology design.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ari_senay) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ariana-kinney-347144333) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kinney.58@wright.edu) 
