@@ -1,5 +1,4 @@
-# Wasabi😎:
-![200w](https://github.com/user-attachments/assets/079d968d-3295-42e4-adc9-16ffdd0a2583)
+![Robot](https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/Roboto.png)
 
 I am a Computer Engineering student at Wright State University—Raider Up! I am passionate about ethical hacking, hardware systems, and AI/ML equipment. I challenge myself through hardware and software projects, hackathons, and research opportunities. My goal is to continuously evolve in my career and contribute to innovative projects that combine hardware, security, and technology design.<br>Advance my career through professional certifications and continuous learning.<br><br>Build on my hardware and microelectronics experience from my summer internship.<br><br>Collaborate on innovative projects at the intersection of AI, cybersecurity, and hardware.
 
@@ -12,7 +11,9 @@ I am a Computer Engineering student at Wright State University—Raider Up! I am
 # 📊 GitHub Stats:
 
 ![](https://github-contributor-stats.vercel.app/api?username=MakoMermaid865&limit=5&theme=cobalt&combine_all_yearly_contributions=true)
+
 ![Stats Card 1](https://awesome-github-stats.azurewebsites.net/user-stats/MakoMermaid865?theme=tokyonight)
+
 ![Contribution Graph](https://ssr-contributions-svg.vercel.app/_/MakoMermaid865?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=0&animation=mess&animation_duration=6&animation_loop=true&format=svg&weeks=50&theme=purple&widget_size=large&colors=FF6F61,FF9671,FFC15E,72F2EB,1282A2,FCE2DB,FAD4D8,DBDFFD&dark=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
